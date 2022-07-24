@@ -25,7 +25,7 @@ const Pokemon = () => {
     React.createElement("div", null, /*#__PURE__*/
 
     React.createElement("div", null, /*#__PURE__*/
-    React.createElement("h3", null, "Question:", /*#__PURE__*/
+    React.createElement("h3", null, "Question is:", /*#__PURE__*/
 
     React.createElement("br", null),
     pokeName.setup), /*#__PURE__*/
